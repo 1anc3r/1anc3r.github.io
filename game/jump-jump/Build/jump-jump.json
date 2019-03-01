@@ -1,12 +1,1 @@
-{
-"companyName": "1anc3r",
-"productName": "Jump-Jump",
-"dataUrl": "jump-jump.data.unityweb",
-"wasmCodeUrl": "jump-jump.wasm.code.unityweb",
-"wasmFrameworkUrl": "jump-jump.wasm.framework.unityweb",
-"TOTAL_MEMORY": 268435456,
-"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
-"webglContextAttributes": {"preserveDrawingBuffer": false},
-"splashScreenStyle": "Dark",
-"backgroundColor": "#231F20"
-}
+{"companyName":"1anc3r","productName":"Jump-Jump","dataUrl":"jump-jump.data.unityweb","wasmCodeUrl":"jump-jump.wasm.code.unityweb","wasmFrameworkUrl":"jump-jump.wasm.framework.unityweb","TOTAL_MEMORY":268435456,"graphicsAPI":["WebGL 2.0","WebGL 1.0"],"webglContextAttributes":{"preserveDrawingBuffer":false},"splashScreenStyle":"Dark","backgroundColor":"#231F20"}

@@ -1,13 +1,1 @@
-{
-"companyName": "1anc3r",
-"productName": "Chess",
-"dataUrl": "chess.data.unityweb",
-"wasmCodeUrl": "chess.wasm.code.unityweb",
-"wasmFrameworkUrl": "chess.wasm.framework.unityweb",
-"TOTAL_MEMORY": 268435456,
-"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
-"webglContextAttributes": {"preserveDrawingBuffer": false},
-"splashScreenStyle": "Dark",
-"backgroundColor": "#231F20",
-"cacheControl": {"default": "must-revalidate"}
-}
+{"companyName":"1anc3r","productName":"Chess","dataUrl":"chess.data.unityweb","wasmCodeUrl":"chess.wasm.code.unityweb","wasmFrameworkUrl":"chess.wasm.framework.unityweb","TOTAL_MEMORY":268435456,"graphicsAPI":["WebGL 2.0","WebGL 1.0"],"webglContextAttributes":{"preserveDrawingBuffer":false},"splashScreenStyle":"Dark","backgroundColor":"#231F20","cacheControl":{"default":"must-revalidate"}}
